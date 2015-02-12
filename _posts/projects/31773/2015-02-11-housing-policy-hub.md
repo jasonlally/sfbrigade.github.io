@@ -1,7 +1,7 @@
 ---
 category: projects
 layout: projects
-published: false
+published: true
 title: Housing Policy Hub
 ---
 
